@@ -1,4 +1,4 @@
-# Node.js Learning Journey
+# Node.js
 
 This repository contains my backend learning progress from the **Namaste Node.js course**.  
 The goal of this repository is to document concepts, practice backend development, and build real-world server-side applications using Node.js and Express.
